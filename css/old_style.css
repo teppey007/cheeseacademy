@@ -1,0 +1,121 @@
+/* ここから下に記載していく */
+@charset "UTF-8";
+
+
+
+/*サイト全体を中央寄せ*/
+body{
+    width: 100%;
+    max-width: 1920px;
+    margin: auto;       /*ブロックレベルの要素を中央に寄せ*/
+    text-align: center; /*インラインの要素を中央寄せ*/
+}
+
+
+
+
+ /*-------------------------------------------
+  ヘッダー
+  -------------------------------------------*/
+ 
+.header {
+   height: 50px;
+}
+
+.header_logo {
+    float: left;
+    padding: 20px;
+}
+
+
+.header_text {
+    font-size: 21px;
+    float: left;
+    padding: 50px;
+}
+
+.top-box {
+    position: relative;
+    
+}
+
+.mainvisual p {
+    position: absolute;
+    font-size: 60px;
+    color:white;
+    top: 0;
+    left: 0;
+    padding-top: 400px;
+    padding-left: 200px;
+}
+
+.ABOUT{
+    padding-top: 60px;
+    
+}
+
+.section-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ffd61a;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.content-title{
+    font-size: 18px;
+    padding-top: 30px;
+}
+
+.about-img{
+    display: flex; /*横並び*/
+}
+
+
+.COURSE-item{
+    display: flex; /*横並び*/
+    padding-top: 120px;
+}
+
+
+
+
+
+
+
+.news-item {
+    float: left;
+    padding: 30px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*-------------------------------------------
+  フッター
+  -------------------------------------------*/
+  .footer {
+    background-color: #707070;
+    color: #fff; 
+  }
+  
+  .footer-logo {
+    padding: 30px;
+  }
+  
+ 
+ 
