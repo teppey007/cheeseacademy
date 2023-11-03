@@ -8,11 +8,17 @@ URL：https://github.com/teppey007/cheeseacademy
 ３．工夫した点
 
 1)htmlの基本を動画とProgateで学習
+
 2)html基本設計
+
 3)htmlコーディング
+
 4)cssの基本を動画とProgateで学習
+
 5)cssの基本設計
+
 6)cssコーディング
+
 7)cssが思ったようにデザインできずトライ&エラー繰り返し
 
 ４．苦戦した点
